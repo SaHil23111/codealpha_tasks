@@ -1,0 +1,19 @@
+codealpha_tasks/
+│
+├── CodeAlpha_Hangman_Game/
+│   ├── src/
+│   │   └── hangman.py
+│   └── README.md
+│
+├── CodeAlpha_Stock_Portfolio_Tracker/
+│   ├── src/
+│   │   └── portfolio.py
+│   └── README.md
+│
+├── CodeAlpha_Basic_Chatbot/
+│   ├── src/
+│   │   └── chatbot.py
+│   └── README.md
+│
+├── README.md
+└── .gitignore
