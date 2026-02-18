@@ -54,26 +54,8 @@ A simple chatbot that responds based on rule conditions.
 
 ---
 
-## 📂 Repository Structure
 
-codealpha_tasks/
-│
-├── CodeAlpha_Hangman_game/
-│ ├── hangman.py
-│ └── README.md
-│
-├── CodeAlpha_Stock_Portfolio_Tracker/
-│ ├── portfolio.py
-│ └── README.md
-│
-├── CodeAlpha_Basic_Chatbot/
-│ ├── chatbot.py
-│ └── README.md
-│
-├── README.md
-└── .gitignore
 
----
 
 
 
