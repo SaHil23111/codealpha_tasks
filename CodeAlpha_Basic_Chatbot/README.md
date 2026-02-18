@@ -1,19 +1,18 @@
-# Task 1 – Hangman Game
+# Task 4 – Basic Rule-Based Chatbot
 
 ## Objective
-Create a simple word guessing game where the player has limited attempts to guess the correct word.
+Create a simple rule-based chatbot using conditional statements.
 
 ## Features Implemented
-- Random word selection using random module
-- Hidden word displayed as underscores
-- 6 incorrect guesses allowed
-- Correct guess updates display
-- Wrong guess reduces life count
-- Win and loss detection
+- Responds to greetings (hi, hello, hey)
+- Handles "how are you" conversation
+- Responds to "what's up" and similar prompts
+- Exit condition using "bye"
+- Case-insensitive input handling
+- Default response for unknown inputs
 
 ## Concepts Used
-- Lists
-- Loops
-- Conditional logic
-- String comparison
-- Random module
+- while loop
+- if-elif statements
+- String methods (.lower())
+- User input processing
