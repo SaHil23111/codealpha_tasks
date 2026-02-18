@@ -54,6 +54,16 @@ A simple chatbot that responds based on rule conditions.
 
 ---
 
+## 📚 What I Learned
+
+- Python fundamentals (variables, loops, conditions)
+- User input handling
+- Basic game logic
+- Dictionary usage and calculation
+- Simple rule-based interaction
+
+
+
 
 
 
