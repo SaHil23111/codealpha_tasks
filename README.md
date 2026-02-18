@@ -1,79 +1,54 @@
-# CodeAlpha Internship Tasks
+# CodeAlpha Internship Tasks — Python Projects
 
-This repository contains Python projects completed as part of the CodeAlpha Internship program.
-
-The projects focus on implementing core programming concepts such as loops, conditional statements, dictionaries, file handling, and user input processing.
-
----
-
-## Task 1 – Hangman Game
-
-Goal: Build a simple word guessing game.
-
-Key Features:
-- Random word selection
-- Display hidden word using underscores
-- 6 incorrect guess limit (life system)
-- Correct and incorrect guess handling
-- Win and loss detection
-
-Concepts Used:
-- Lists
-- Loops
-- Conditional statements
-- Random module
+This repository contains Python projects completed as part of the CodeAlpha Internship program.  
+Each project demonstrates core Python programming skills using real tasks provided by the internship.
 
 ---
 
-## Task 2 – Stock Portfolio Tracker
+## 📁 Projects Included
 
-Goal: Build a stock tracker that calculates total investment using predefined stock prices.
+### 🔹 Task 1 — Hangman Game  
+A command-line word guessing game implemented with Python.
 
-Key Features:
-- Hardcoded stock price dictionary
-- User input for stock name and quantity
-- Portfolio summary calculation
+**Key Features**
+- Random word selection  
+- Hidden letter display  
+- Life counter for wrong guesses  
+- Win/Loss detection
+
+---
+
+### 🔹 Task 2 — Stock Portfolio Tracker  
+A simple investment calculator using predefined stock values.
+
+**Key Features**
+- Predefined stock price dictionary  
+- User input for stock and quantity  
 - Total investment calculation
-- Option to save results to a text file
-- Basic error handling for invalid quantity
-
-Concepts Used:
-- Dictionaries
-- Loops
-- Exception handling
-- File handling
-- Basic arithmetic operations
 
 ---
 
-## Task 4 – Basic Rule-Based Chatbot
+### 🔹 Task 4 — Basic Rule-Based Chatbot  
+A simple chatbot that responds based on rule conditions.
 
-Goal: Build a simple chatbot using conditional logic.
-
-Key Features:
-- Responds to greetings (hi, hello, hey)
-- Handles basic conversation prompts
-- Exit option using "bye"
-- Case-insensitive input handling
-- Fallback response for unknown inputs
-
-Concepts Used:
-- while loop
-- if-elif statements
-- String methods
-- User input handling
+**Key Features**
+- Greeting handling (hi, hello, etc.)  
+- Basic conversational responses  
+- Case-insensitive input  
+- Option to exit the chatbot
 
 ---
 
-## Technologies Used
-- Python 3
-- Command Line Interface (CLI)
+## 🛠 Technologies Used
+
+- Python 3  
+- Command-Line Interface
 
 ---
 
-## How to Run
+## 📂 How to Run Projects
 
-1. Open terminal in the desired task folder.
-2. Run the Python file:
-
+1. Open a terminal/command prompt
+2. Navigate to the specific project folder
+3. Run the Python script:
 
